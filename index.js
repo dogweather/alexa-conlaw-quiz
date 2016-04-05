@@ -37,7 +37,7 @@ var questions = [
         ]
     },
     {
-        "A public employee has property rights in their job when": [
+        "When does a public employee have property rights in their job?": [
             "they have a contract",
             "they are at-will",
             "they are a U.S. citizen",
@@ -53,7 +53,7 @@ var questions = [
         ]
     },
     {
-        "Equal protection claims against the federal government are rooted in": [
+        "Where are equal protection claims against the federal government rooted?": [
             "the fifth amendment due process clause",
             "English jurisprudence",
             "the commerce clause",
@@ -61,7 +61,7 @@ var questions = [
         ]
     },
     {
-        "The right to keep and bear arms is found in the": [
+        "Where is the right to keep and bear arms is found?": [
             "second amendment",
             "first amendment",
             "establishment clause",
@@ -69,15 +69,15 @@ var questions = [
         ]
     },
     {
-        "The Lemon test is applied to cases of": [
-            "government action with no sect preference",
-            "import-export controversies",
-            "agricultural disputes",
+        "The Lemon test is applied to cases of what?": [
+            "religion",
+            "export",
+            "agriculture",
             "obscenity"
         ]
     },
     {
-        "The Free Exercise Clause protects the free exercise of": [
+        "What does the Free Exercise Clause protect the free exercise of?": [
             "religion",
             "gun rights",
             "speech",
