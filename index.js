@@ -93,51 +93,51 @@ var questions = [
         ]
     },
     {
-        "Who invented the story of Rudolph?": [
-            "Robert May",
-            "Johnny Marks",
-            "Santa",
-            "J.K. Rowling"
+        "Where do prisoner rights protections stem from?": [
+            "eighth amendment",
+            "ninth amendment",
+            "declaration of independence",
+            "article three"
         ]
     },
     {
-        "In what location will you not find reindeer?": [
-            "North Pole",
-            "Lapland",
-            "Korvatunturi mountain",
-            "Finland"
+        "Where is the privilege against compelled testimony found?": [
+            "fifth amendment",
+            "first amendment",
+            "equal protection clause",
+            "federal register"
         ]
     },
     {
-        "What Makes Santa's Reindeer Fly?": [
-            "Magical Reindeer Dust",
-            "Fusion",
-            "Amanita muscaria",
-            "Elves"
+        "What is the minimum number of jurors guaranteed by the right to a jury trial?": [
+            "six",
+            "nine",
+            "twelve",
+            "zero"
         ]
     },
     {
-        "Including Rudolph, how many reindeer hooves are there?": [
-            "36",
-            "24",
-            "16",
-            "8"
+        "Where does death penalty regulation stem from?": [
+            "eighth amendment",
+            "fourth amendment",
+            "gettysberg address",
+            "declaration of independence"
         ]
     },
     {
-        "Santa only has one female reindeer. Which one is it?": [
-            "Vixen",
-            "Clarice",
-            "Cupid",
-            "Cupid"
+        "Where is the prohibition against cruel and unusual punishment found?": [
+            "eighth amendment",
+            "sixth amendment",
+            "fifth amendment",
+            "declaration of independence"
         ]
     },
     {
-        "In the 1964 classic Rudolph The Red Nosed Reindeer, what was the snowman narrators name?": [
-            "Sam",
-            "Frosty",
-            "Burl",
-            "Snowy"
+        "A warrant must be based on a showing of what?": [
+            "probable cause",
+            "compelling facts",
+            "honesty",
+            "reasonable suspicion"
         ]
     },
     {
