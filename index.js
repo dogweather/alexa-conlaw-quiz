@@ -69,7 +69,7 @@ var questions = [
         ]
     },
     {
-        "Where is the right to keep and bear arms is found?": [
+        "Where is the right to keep and bear arms found?": [
             "second amendment",
             "in every state",
             "establishment clause",
