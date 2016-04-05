@@ -1,3 +1,7 @@
+/*jshint -W097 */
+/*jshint -W117 */
+/*jshint -W014 */
+
 /**
  Copyright 2014-2015 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 
@@ -314,7 +318,7 @@ function getWelcomeResponse(callback) {
         i, j;
 
     for (i = 0; i < ANSWER_COUNT; i++) {
-        repromptText += (i+1).toString() + ". " + roundAnswers[i] + ". "
+        repromptText += (i+1).toString() + ". " + roundAnswers[i] + ". ";
     }
     speechOutput += repromptText;
     sessionAttributes = {
@@ -377,7 +381,7 @@ function populateRoundAnswers(gameQuestionIndexes, correctAnswerIndex, correctAn
         var rand = Math.floor(Math.random() * (index - 1)) + 1;
         index -= 1;
 
-        var temp = answersCopy[index];
+        temp = answersCopy[index];
         answersCopy[index] = answersCopy[rand];
         answersCopy[rand] = temp;
     }
@@ -410,7 +414,7 @@ function handleAnswerRequest(intent, session, callback) {
         // If the user provided answer isn't a number > 0 and < ANSWER_COUNT,
         // return an error message to the user. Remember to guide the user into providing correct values.
         var reprompt = session.attributes.speechOutput;
-        var speechOutput = "Your answer must be a number between 1 and " + ANSWER_COUNT + ". " + reprompt;
+        speechOutput = "Your answer must be a number between 1 and " + ANSWER_COUNT + ". " + reprompt;
         callback(session.attributes,
             buildSpeechletResponse(CARD_TITLE, speechOutput, reprompt, false));
     } else {
@@ -427,7 +431,7 @@ function handleAnswerRequest(intent, session, callback) {
             speechOutputAnalysis = "correct. ";
         } else {
             if (!userGaveUp) {
-                speechOutputAnalysis = "wrong. "
+                speechOutputAnalysis = "wrong. ";
             }
             speechOutputAnalysis += "The correct answer is " + correctAnswerIndex + ": " + correctAnswerText + ". ";
         }
@@ -448,7 +452,7 @@ function handleAnswerRequest(intent, session, callback) {
                 questionIndexForSpeech = currentQuestionIndex + 1,
                 repromptText = "Question " + questionIndexForSpeech.toString() + ". " + spokenQuestion + " ";
             for (var i = 0; i < ANSWER_COUNT; i++) {
-                repromptText += (i+1).toString() + ". " + roundAnswers[i] + ". "
+                repromptText += (i+1).toString() + ". " + roundAnswers[i] + ". ";
             }
             speechOutput += userGaveUp ? "" : "That answer is ";
             speechOutput += speechOutputAnalysis + "Your score is " + currentScore.toString() + ". " + repromptText;
