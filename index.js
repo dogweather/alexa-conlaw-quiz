@@ -21,21 +21,11 @@
  */
 var questions = [
     {
-        "Reindeer have very thick coats, how many hairs per square inch do they have?": [
-            "13,000",
-            "1,200",
-            "5,000",
-            "700",
-            "1,000",
-            "120,000"
-        ]
-    },
-    {
-        "The 1964 classic Rudolph The Red Nosed Reindeer was filmed in:": [
-            "Japan",
-            "United States",
-            "Finland",
-            "Germany"
+        "Article III, section 2 extends the federal judicial power only to": [
+            "cases and controversies",
+            "courts on U.S. soil",
+            "federal law",
+            "political questions"
         ]
     },
     {
