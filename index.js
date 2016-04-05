@@ -69,27 +69,27 @@ var questions = [
         ]
     },
     {
-        "Who was the voice of Rudolph in the 1964 classic?": [
-            "Billie Mae Richards",
-            "Burl Ives",
-            "Paul Soles",
-            "Lady Gaga"
+        "The Lemon test is applied to cases of": [
+            "government action with no sect preference",
+            "import-export controversies",
+            "agricultural disputes",
+            "obscenity"
         ]
     },
     {
-        "In 1939 what retailer used the story of Rudolph the Red Nose Reindeer?": [
-            "Montgomery Ward",
-            "Sears",
-            "Macys",
-            "Kmart"
+        "The Free Exercise Clause protects the free exercise of": [
+            "religion",
+            "gun rights",
+            "speech",
+            "property rights"
         ]
     },
     {
-        "Santa's reindeer named Donner was originally named what?": [
-            "Dunder",
-            "Donny",
-            "Dweedle",
-            "Dreamy"
+        "The President's power to pardon does not extend to": [
+            "civil contempt",
+            "alaska",
+            "friends and relatives",
+            "the previous decade"
         ]
     },
     {
