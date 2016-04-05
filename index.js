@@ -3,7 +3,8 @@
 /*jshint -W014 */
 
 /**
- Copyright 2014-2015 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ Portions copyright 2014-2015 Amazon.com, Inc. or its affiliates. All Rights
+ Reserved.
 
  Licensed under the Apache License, Version 2.0 (the "License"). You may not use
  this file except in compliance with the License. A copy of the License is
@@ -17,7 +18,7 @@
  limitations under the License.
 
 
- Portions Copyright 2016 Robb Shecter, and released under the MIT license.
+ Portions copyright 2016 Robb Shecter, and released under the MIT license.
  */
 
 'use strict';
@@ -61,7 +62,7 @@ var questions = [
     },
     {
         "Where are equal protection claims against the federal government rooted?": [
-            "the fifth amendment due process clause",
+            "fifth amendment due process clause",
             "English jurisprudence",
             "the commerce clause",
             "the right to privacy"
@@ -70,7 +71,7 @@ var questions = [
     {
         "Where is the right to keep and bear arms is found?": [
             "second amendment",
-            "first amendment",
+            "in every state",
             "establishment clause",
             "declaration of independence"
         ]
@@ -78,7 +79,7 @@ var questions = [
     {
         "The Lemon test is applied to cases of what?": [
             "religion",
-            "export",
+            "liquor",
             "agriculture",
             "obscenity"
         ]
@@ -88,7 +89,7 @@ var questions = [
             "religion",
             "gun rights",
             "speech",
-            "property rights"
+            "the lower body"
         ]
     },
     {
