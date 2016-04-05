@@ -24,24 +24,24 @@ var questions = [
         "Article III, section 2 extends the federal judicial power only to": [
             "cases and controversies",
             "courts on U.S. soil",
-            "federal law",
+            "advisory opinions",
             "political questions"
         ]
     },
     {
-        "Santas reindeer are cared for by one of the Christmas elves, what is his name?": [
-            "Wunorse Openslae",
-            "Alabaster Snowball",
-            "Bushy Evergreen",
-            "Pepper Minstix"
+        "Standing requires the plaintiff to show": [
+            "an injury in fact",
+            "an injury in law",
+            "proof beyond a reasonable doubt",
+            "the likelihood of an imminent injury"
         ]
     },
     {
-        "If all of Santas reindeer had antlers while pulling his Christmas sleigh, they would all be:": [
-            "Girls",
-            "Boys",
-            "Girls and boys",
-            "No way to tell"
+        "A public employee has property rights in their job when": [
+            "they have a contract",
+            "they are at-will",
+            "they are a U.S. citizen",
+            "they are not a felon"
         ]
     },
     {
