@@ -21,7 +21,7 @@
  */
 var questions = [
     {
-        "Article III, section 2 extends the federal judicial power only to": [
+        "Article three, section two extends the federal judicial power only to": [
             "cases and controversies",
             "courts on U.S. soil",
             "advisory opinions",
@@ -45,27 +45,27 @@ var questions = [
         ]
     },
     {
-        "What do Reindeer eat?": [
-            "Lichen",
-            "Grasses",
-            "Leaves",
-            "Berries"
+        "A law containing gender-based classifications must be shown to pass": [
+            "intermediate scrutiny",
+            "strict scrutiny",
+            "substantial scrutiny",
+            "all checks and balances"
         ]
     },
     {
-        "What of the following is not true?": [
-            "Caribou live on all continents",
-            "Both reindeer and Caribou are the same species",
-            "Caribou are bigger than reindeer",
-            "Reindeer live in Scandinavia and Russia"
+        "Equal protection claims against the federal government are rooted in": [
+            "the fifth amendment due process clause",
+            "English jurisprudence",
+            "the commerce clause",
+            "the right to privacy"
         ]
     },
     {
-        "In what year did Rudolph make his television debut?": [
-            "1964",
-            "1979",
-            "2000",
-            "1956"
+        "The right to keep and bear arms is found in the": [
+            "second amendment",
+            "first amendment",
+            "establishment clause",
+            "declaration of independence"
         ]
     },
     {
